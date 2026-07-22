@@ -8,5 +8,5 @@ This project was created as part of my SQL learning journey on **365 Data Scienc
 
 This project analyzes the student engagement-to-purchase funnel for the 365 Data Science platform using MySQL. The goal is to understand how students move from registration → engagement → paid subscription, and identify where the biggest drop-offs happen.
 
-*** End Patch
+
 
